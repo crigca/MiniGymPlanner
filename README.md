@@ -1,56 +1,29 @@
-# Fit Semanal 💪
 
-A simple gym routine management app built with React and Vite.
+# MiniGymPlanner 💪
 
-## Features
+**MiniGymPlanner** es una app sencilla para gestionar rutinas de gimnasio, pensada para entrenadores/as y entusiastas del fitness. Está desarrollada con **React 19** y **Vite**.
 
-- 👥 Manage multiple students/clients
-- 🏋️ Create and assign workout routines
-- 📝 Add exercises with sets, reps, and weights
-- 💾 Local data persistence
-- 📱 Responsive design
+## 🖥️ Demo
 
-## Getting Started
+- ¡Pruébalo directamente en la web! [Demo en Netlify](https://minigymplanner.netlify.app/)
 
-### Prerequisites
+## ✨ Características
 
-- Node.js (v16 or higher)
-- npm or yarn
+- 👥 **Gestión de múltiples estudiantes/clientes**
+- 🏋️ **Crea y asigna rutinas de entrenamiento personalizadas**
+- 📝 **Agrega ejercicios con series, repeticiones y peso**
+- 💾 **Persistencia de datos local (no requiere backend)**
+- 📱 **Diseño responsive — usable en móvil y escritorio**
 
-### Installation
+## 🚀 Primeros Pasos
 
-1. Clone the repository
-```bash
-git clone <repository-url>
-cd FitSemanal
-```
+### Requisitos
 
-2. Install dependencies
-```bash
-npm install
-```
+- Node.js (v16 o superior)
+- npm o yarn
 
-3. Start the development server
-```bash
-npm run dev
-```
+### Instalación
 
-4. Open your browser and navigate to `http://localhost:5173`
+1. Clona el repositorio:
 
-## Available Scripts
 
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint
-
-## Tech Stack
-
-- **React 19** - UI framework
-- **Vite** - Build tool and dev server
-- **CSS3** - Styling
-- **Local Storage** - Data persistence
-
-## License
-
-MIT
